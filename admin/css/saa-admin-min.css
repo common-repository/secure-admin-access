@@ -1,0 +1,32 @@
+/**
+ * Secure Admin Access
+ * 
+ * */
+#saa-tab-menu a {background: ThreeDShadow; border: 0 none;color: #FFFFFF;display: inline-block;font-size: 16px;font-weight: bold;padding: 15px 25px;}
+#saa-tab-menu a:hover{cursor:pointer;background: Highlight; opacity:1;}
+#saa-tab-menu a.active{ background: #5cb85c;}
+#saa-settings-form-admin .submit-btn {width: 100%; display: inline-block; padding-top: 10px; margin-top: 10px; border-top: 1px dashed #DCA808;}
+#saa-settings-form-admin .submit-btn .button-primary{cursor:pointer;height:35px;}
+#saa-settings-form-admin .csbwfs-setting p label {min-width:75px;display:inline-block;}
+#div-saa-support img {width:50%px; height:auto;}
+#saa-settings-form-admin ul {list-style:inside}
+#saa-settings-form-admin #div-saa-support .contact-author{    background: none repeat scroll 0 0 #DC22FF;border: 0 none;color: #FFFFFF;display: inline-block;font-size: 12px;   font-weight: bold;padding: 2px 5px;text-decoration: none;}
+.saa-settings-form-table { background-color: #fff; font-family: arial, sans-serif; border-collapse: collapse; width: 76%; margin-bottom: 20px;}
+.saa-settings-form-table td, .saa-settings-form-table th {  text-align: left; padding: 8px;}
+.saa-page-design{
+    background: #f5f5fa;
+    padding-bottom: 30px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+}
+.saa-heading{
+    
+    padding: 20px;
+}
+.saa-title{
+ margin-top: 20px;
+    margin-bottom: 10px;   
+}
